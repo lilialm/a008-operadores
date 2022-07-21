@@ -4,9 +4,6 @@ let secondNumber = prompt("Por favor, insira outro número");
 Number(firstNumber);
 Number(secondNumber);
 
-console.log(typeof firstNumber);
-console.log(typeof secondNumber);
-
 console.log("O seu primeiro número é", firstNumber);
 console.log("O seu segundo número é", secondNumber);
 
